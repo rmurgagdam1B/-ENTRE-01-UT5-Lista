@@ -21,7 +21,7 @@ public class ListaNumeros {
     private static final Random generador = new Random();
     //TODO
     
-    
+    private int prueba = 0;
 
     /**
      * Constructor de la clase ListaNumeros
@@ -31,7 +31,7 @@ public class ListaNumeros {
      * @param n el tamaño máximo de la lista
      */
     public ListaNumeros() {
-        //TODO
+        
         
     }
 
